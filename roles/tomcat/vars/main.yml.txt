@@ -1,0 +1,6 @@
+---
+  -   nodes:
+        - name: node1
+          httpportno: 8080
+          ajpportno:8009
+          sshutdownport:8005
