@@ -1,0 +1,7 @@
+# variables declaration file for Apache Tomcat Servers
+
+# Admin user/password for Tomcat Default Manager-Gui User:
+
+admin_username: root
+
+admin_password: admin@123
